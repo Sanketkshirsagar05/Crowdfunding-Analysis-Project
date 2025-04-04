@@ -49,4 +49,5 @@ Performed **data cleaning** and **transformation** before visualizing trends suc
 - **Data Cleaning**: Removed duplicates, handled missing values, and converted data types.  
 
 📌 **Screenshot:**  
-![Excel Analysis Screenshot](your_image_link_here)
+![Excel Dashboard Screenshot1](your_image_link_here)
+![Excel Dashboard Screenshot2](your_image_link_here)
