@@ -24,10 +24,10 @@ This project analyzes crowdfunding data from **Kickstarter** to gain insights in
 ## 🛠️ Tools Used  
 | Tool       | Purpose |
 |------------|---------|
-| **Excel**  | Data Cleaning, Pivot Tables, Basic Analysis |
+| **Excel**  | Data Cleaning, Pivot Tables, Basic Analysis, Dashboard |
 | **SQL**    | Data Querying & Aggregation |
 | **Power BI** | Interactive Dashboards & Reports |
-| **Tableau** | Advanced Visualizations & Storytelling |
+| **Tableau** | Advanced Visualizations & Dashboards |
 
 ---
 
