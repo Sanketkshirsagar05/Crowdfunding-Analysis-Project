@@ -49,5 +49,5 @@ Performed **data cleaning** and **transformation** before visualizing trends suc
 - **Data Cleaning**: Removed duplicates, handled missing values, and converted data types.  
 
 📌 **Screenshot:**  
-![Excel Dashboard Screenshot1](Excel Dash 1.png)
-![Excel Dashboard Screenshot2](your_image_link_here)
+![Excel Dashboard Screenshot1](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%201.png)
+![Excel Dashboard Screenshot2](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%202.png)
