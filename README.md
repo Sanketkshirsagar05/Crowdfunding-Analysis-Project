@@ -67,8 +67,12 @@ Performed **data cleaning** and **transformation** before visualizing trends suc
 - Integrated dashboard interactivity with filters and parameters.
 
 📌 **Screenshot:**  
-![Tableau Dashboard Screenshot1](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Tableau%20Dash%201.png)
-![Tableau Dashboard Screenshot2](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Tableau%20Dash%202%20.png)
+<p align="center">
+  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Tableau%20Dash%201.png" width="600"/>
+  <br/>
+  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Tableau%20Dash%202%20.png" width="600"/>
+</p>
+
 
 
 
