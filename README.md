@@ -58,8 +58,8 @@ Performed **data cleaning** and **transformation** before visualizing trends suc
 - Created visuals: bar charts, line graphs, stacked area charts, and donut charts.
 
 📌 **Screenshot:**  
-![Power BI Dashboard Screenshot1](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%201.png)
-![Power BI Dashboard Screenshot2](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%202.png)
+![Power BI Dashboard Screenshot1](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Power%20BI%20Dash%201.png)
+![Power BI Dashboard Screenshot2](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Power%20BI%20Dash%202.png)
 
 ###  Tableau Dashboard
 - Created a visually compelling story dashboard.
@@ -67,8 +67,8 @@ Performed **data cleaning** and **transformation** before visualizing trends suc
 - Integrated dashboard interactivity with filters and parameters.
 
 📌 **Screenshot:**  
-![Tableau Dashboard Screenshot1](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%201.png)
-![Tableau Dashboard Screenshot2](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%202.png)
+![Tableau Dashboard Screenshot1](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Tableau%20Dash%201.png)
+![Tableau Dashboard Screenshot2](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Tableau%20Dash%202%20.png)
 
 
 
