@@ -49,8 +49,11 @@ Performed **data cleaning** and **transformation** before visualizing trends suc
 - **Data Cleaning**: Removed duplicates, handled missing values, and converted data types.  
 
 📌 **Screenshot:**  
-![Excel Dashboard Screenshot1](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%201.png)
-![Excel Dashboard Screenshot2](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%202.png)
+<p align="center">
+  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%201.png" width="500"/>
+  <br/>
+  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%202.png" width="500"/>
+</p>
 
 ###  Power BI Dashboard
 - Built dynamic and interactive dashboards with slicers for city, cuisine, and delivery filters.
@@ -58,8 +61,11 @@ Performed **data cleaning** and **transformation** before visualizing trends suc
 - Created visuals: bar charts, line graphs, stacked area charts, and donut charts.
 
 📌 **Screenshot:**  
-![Power BI Dashboard Screenshot1](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Power%20BI%20Dash%201.png)
-![Power BI Dashboard Screenshot2](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Power%20BI%20Dash%202.png)
+<p align="center">
+  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Power%20BI%20Dash%201.png" width="500"/>
+  <br/>
+  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Power%20BI%20Dash%202.png" width="500"/>
+</p>
 
 ###  Tableau Dashboard
 - Created a visually compelling story dashboard.
@@ -68,9 +74,9 @@ Performed **data cleaning** and **transformation** before visualizing trends suc
 
 📌 **Screenshot:**  
 <p align="center">
-  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Tableau%20Dash%201.png" width="600"/>
+  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Tableau%20Dash%201.png" width="500"/>
   <br/>
-  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Tableau%20Dash%202%20.png" width="600"/>
+  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Tableau%20Dash%202%20.png" width="500"/>
 </p>
 
 
