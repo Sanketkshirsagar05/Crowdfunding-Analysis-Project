@@ -43,7 +43,7 @@ Performed **data cleaning** and **transformation** before visualizing trends suc
 
 ## 📈 Analysis & Visualization  
 
-### 1️⃣ Excel Analysis  
+###  Excel Analysis  
 - Used **Pivot Tables** to analyze campaign success rates.  
 - Created **Excel Charts** to visualize pledged amounts and category-wise distributions.  
 - **Data Cleaning**: Removed duplicates, handled missing values, and converted data types.  
@@ -51,3 +51,25 @@ Performed **data cleaning** and **transformation** before visualizing trends suc
 📌 **Screenshot:**  
 ![Excel Dashboard Screenshot1](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%201.png)
 ![Excel Dashboard Screenshot2](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%202.png)
+
+###  Power BI Dashboard
+- Built dynamic and interactive dashboards with slicers for city, cuisine, and delivery filters.
+- Included KPIs such as Average Rating, Total Restaurants, and Most Common Cuisines.
+- Created visuals: bar charts, line graphs, stacked area charts, and donut charts.
+
+📌 **Screenshot:**  
+![Power BI Dashboard Screenshot1](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%201.png)
+![Power BI Dashboard Screenshot2](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%202.png)
+
+###  Tableau Dashboard
+- Created a visually compelling story dashboard.
+- Used maps for geographical visualization of city-wise restaurant distribution.
+- Integrated dashboard interactivity with filters and parameters.
+
+📌 **Screenshot:**  
+![Tableau Dashboard Screenshot1](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%201.png)
+![Tableau Dashboard Screenshot2](https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%202.png)
+
+
+
+
