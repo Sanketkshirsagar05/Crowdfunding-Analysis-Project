@@ -50,9 +50,9 @@ Performed **data cleaning** and **transformation** before visualizing trends suc
 
 📌 **Screenshot:**  
 <p align="center">
-  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%201.png" width="600" height="350"/>
+  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%201.png" width="800" height="300"/>
   <br/>
-  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%202.png" width="600" height="350"/>
+  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Excel%20Dash%202.png" width="800" height="300"/>
 </p>
 
 ###  Power BI Dashboard
@@ -62,9 +62,9 @@ Performed **data cleaning** and **transformation** before visualizing trends suc
 
 📌 **Screenshot:**  
 <p align="center">
-  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Power%20BI%20Dash%201.png" width="600" height="350"/>
+  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Power%20BI%20Dash%201.png" width="800" height="300"/>
   <br/>
-  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Power%20BI%20Dash%202.png" width="600" height="350"/>
+  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Power%20BI%20Dash%202.png" width="800" height="300"/>
 </p>
 
 ###  Tableau Dashboard
@@ -74,9 +74,9 @@ Performed **data cleaning** and **transformation** before visualizing trends suc
 
 📌 **Screenshot:**  
 <p align="center">
-  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Tableau%20Dash%201.png" width="600" height="350"/>
+  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Tableau%20Dash%201.png" width="800" height="300"/>
   <br/>
-  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Tableau%20Dash%202%20.png" width="600" height="350"/>
+  <img src="https://github.com/Sanketkshirsagar05/Crowdfunding-Analysis-Project/blob/main/Dashboard%20Screenshot/Tableau%20Dash%202%20.png" width="800" height="300"/>
 </p>
 
 
